@@ -1,0 +1,2 @@
+쁘띠는 ppk 밖에 인식못함. 우리가 갖고있는 키는 pem 따라서 puttygen을 활용
+conversions - import key - save private key(난느 프라이빗, 서버는 퍼블릭 키 보유중임)
